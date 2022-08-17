@@ -230,6 +230,23 @@ El devanado primario esta abierto, por lo tanto, el siguiente paso es reemplazar
 Alguno de los devanados segundarios podrían estar en cortocircuito, o el voltaje primario inferior al esperado.
 
 
+<h2></b>4. VIDEO</b></h2>
+
+https://youtu.be/42c2okqpbZI
+
+<h2><b>5. CONCLUSIONES</b></h2> 
+
+- Los inductores son elementos pasivos como las resistencias y capacitores, pero, que tienen la característica de almacenamiento de energía en forma de campo magnético.
+
+- El transformador es un dispositivo que permite elevar o disminuir el voltaje en un circuito por medio de un campo magnético, manteniendo una misma potencia.
+
+- Los inductores tienen una gran parte fundamental en electrónica, por el hecho de que conforman una gran ayuda para la implementacion de cosas diariamente utilizadas por el hombre,desde motores giratorios hasta carga inalámbrica de tu teléfono.
+
+
+<h2><b>6. BIBLIOGRAFIA</b></h2> 
+
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
 
 
 
