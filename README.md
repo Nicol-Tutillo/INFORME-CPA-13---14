@@ -6,13 +6,11 @@
 
     1.2 Objetivos Específicos
       
-    - Identificar un circuito resistivo en serie
-    - Explicar por qué los valores de resistencia se suman cuando los resistores están conectados en serie
-    - Analizar el efecto de carga en una fuente de voltaje práctica
-    - Comparar una fuente de corriente práctica con una fuente ideal
-    - Determinar el valor de la resistencia de carga con la cual se transfiere la potencia máxima
-      desde un circuito dado
-    - Convertir una fuente de voltaje en una fuente de corriente
+    - Definir que es un inductor
+    - Determinar los tipos de inductores
+    - Reconocer los inductores en serie y paralelo
+    - Reconocer los inductores en circuitos CD y CA
+    - Definir que es un transformador
     
  <h2><b>2. MARCO TEORICO</b></h2>
  
